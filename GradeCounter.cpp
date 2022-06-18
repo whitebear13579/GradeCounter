@@ -1,4 +1,4 @@
-//1部分開源
+//部分開源
 #include <bits/stdc++.h>
 #include <windows.h>
 using namespace std;
