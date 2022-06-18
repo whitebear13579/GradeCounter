@@ -23,7 +23,7 @@
 
 ***
 ### [ENGLISH]
-> Oh sh_t,i'm going to fail physics again this semester...😭
+> Oh sh_t, i'm going to fail physics again this semester...😭
 
 - Are you still troubled by **this question**?
 - Are you look over yours shoulder at the end of every semester because you're afraid you'll fail?
