@@ -23,6 +23,61 @@ int main(){
             }
             else if(setup1==2){
                 check = false;
+                system("cls");
+                cout<<info[0]<<"\n"<<info[1]<<endl;
+                for(int i =3;i<13;i++){
+                    cout<<func[i]<<endl;
+                }
+                cout<<">";
+                while(check2 == true){
+                    cin>>setup2;
+                    if(setup2>=1&&setup2<=10){
+                        if(setup2==1){
+                            history();
+                            check2 = false;
+                        }
+                        else if(setup2 == 2){
+                            cout<<info[5]<<endl;
+                            check2 = true;
+                        }
+                        else if(setup2 == 3){
+                            cout<<info[5]<<endl;
+                            check2 = true;
+                        }
+                        else if(setup2 == 4){
+                            cout<<info[5]<<endl;
+                            check2 = true;
+                        }
+                        else if(setup2 == 5){
+                            cout<<info[5]<<endl;
+                            check2 = true;
+                        }
+                        else if(setup2 == 6){
+                            cout<<info[5]<<endl;
+                            check2 = true;
+                        }
+                        else if(setup2 == 7){
+                            cout<<info[5]<<endl;
+                            check2 = true;
+                        }
+                        else if(setup2 == 8){
+                            cout<<info[5]<<endl;
+                            check2 = true;
+                        }
+                        else if(setup2 == 9){
+                            cout<<info[5]<<endl;
+                            check2 = true;
+                        }
+                        else{
+                            cout<<info[5]<<endl;
+                            check2 = true;
+                        }
+                    }
+                    else{
+                        cout<<info[3]<<endl;
+                        check2 = true;
+                    }
+                }
                 
             }
             else if(setup1==3){
