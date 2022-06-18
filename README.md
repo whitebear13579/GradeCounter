@@ -22,6 +22,7 @@
 > - 一分耕耘，一分收獲。若預測結果不理想，並不代表沒有任何希望，持續努力，都會有豐碩的果實。
 
 ***
+### [ENGLISH]
 > Oh sh_t,i'm going to fail physics again this semester...😭
 
 - Are you still troubled by **this question**?
