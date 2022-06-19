@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-    //全域變數定義
+    //Main區域定義
     int setup1,setup2,sorce;
     bool check = true;
 
